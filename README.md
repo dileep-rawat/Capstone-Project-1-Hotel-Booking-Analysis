@@ -1,1 +1,1 @@
-# Capsatine-Project-1-Hotel-Booking-Analysis
+# Capstone-Project-1-Hotel-Booking-Analysis
