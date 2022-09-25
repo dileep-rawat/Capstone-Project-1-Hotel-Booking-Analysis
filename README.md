@@ -113,7 +113,6 @@ From pie chart we can analyse that only 5.39% guest cancelled their reservation 
 
 - The majority of the stays are over the weekday's night so target should be given and on the other day  of the month it was random..
 
-And many more conclusions.
 
 # Challenges Faced:
 
